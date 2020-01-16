@@ -2,7 +2,7 @@
   "welcome": {
     "header": {
       "type": "image",
-      "url": "https://www.tajmahal.gov.in/images/banners/1.jpg"
+      "url": "/images/tajmahal.png"
     },
     "content": [
       {
