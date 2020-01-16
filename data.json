@@ -7,7 +7,7 @@
     "content": [
       {
         "icon": "/images/stroke-21.png",
-        "text": "\u003cb\u003eDear Gareth, Ankit, Lance, Alan, Dilip\u003c/b\u003e\u003cp\u003eWelcome to Publicis Sapient India. We are delighted to host you.\u003c/p\u003e\u003cp\u003eOur CEO, Nigel Vaz has a brief \u003ca href=\"https://lion.app.box.com/s/uf1jtmf4ezcntr60orqepif8f33meup0\"\u003emessage\u003c/a\u003efor you providing an introduction to our company and services.\u003c/p\u003e\u003cp\u003eAs part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account members.\u003c/p\u003e\u003cp\u003eBangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.\u003c/p\u003e\u003cp\u003eNoida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.\u003c/p\u003e\u003cp\u003eThe agenda has been enclosed for your reference. Please feel free to contact Sandeep Pandey for any assistance you may need. You can reach him on \u003ca href=\"tel:+91 9811592512\"\u003e+91 9811592512\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWishing you a memorable and wonderful stay!\u003c/p\u003e\u003cp\u003eBest Regards,\u003c/p\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003ePoornima Vasdev\u003c/b\u003e\u003cbr\u003eVP Project Management"
+        "text": "\u003cb\u003eDear Alan, Ankit, Dilip, Gareth, Lance\u003c/b\u003e\u003cp\u003eWelcome to Publicis Sapient India. \u003c/p\u003e\u003cp\u003ePlease see the \u003ca href=\"https://vimeo.com/384946499/28c84037ab\"\u003ewelcome message\u003c/a\u003e from Nigel, we are so excited to host you.\u003c/p\u003e\u003cp\u003eAs part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account members.\u003c/p\u003e\u003cp\u003eBangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.\u003c/p\u003e\u003cp\u003eNoida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.\u003c/p\u003e\u003cp\u003eThe agenda has been enclosed for your reference. Please feel free to contact Sandeep Pandey for any assistance you may need. You can reach him at \u003ca href=\"tel:+91 9811592512\"\u003e+91 9811592512\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWishing you a memorable and wonderful stay!\u003c/p\u003e\u003cp\u003eBest Regards,\u003c/p\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003ePoornima Vasdev\u003c/b\u003e\u003cbr\u003eVP Project Management"
       }
     ]
   },
@@ -46,14 +46,14 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl, 4 floor"
           },
           {
             "time": "9:15 - 9:45",
             "agenda": "Sapient India Overview",
             "objectives": [
               {
-                "title": "Overview of Sapient India",
+                "title": "Publicis Sapient India Overview",
                 "objective": null
               },
               {
@@ -61,7 +61,7 @@
                 "objective": null
               },
               {
-                "title": "How We are Different",
+                "title": "Our Differentiators",
                 "objective": null
               },
               {
@@ -79,18 +79,18 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl, 4 floor"
           },
           {
             "time": "9:45 - 10:15",
-            "agenda": "Experience/Engineering Demo",
+            "agenda": "Engineering at Scale",
             "objectives": [
               {
                 "title": "PS in Digital Business Transformation",
                 "objective": null
               },
               {
-                "title": "Showcase Sapient's Capabilities",
+                "title": "Showcase PS Capabilities",
                 "objective": [
                   {
                     "title": "Above the glass (Design, UX, UI)",
@@ -113,15 +113,20 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl, 4 floor"
           },
           {
             "time": "10:15 - 11:30",
-            "agenda": "GS Leadership Connect",
+            "agenda": "Experience/Engineering Demo",
             "objectives": [
               {
                 "title": "Customer Experience Case Study - Demonstrate Team's thinking",
-                "objective": null
+                "objectives": [
+                  {
+                    "title": "Including the Case Study Demo on multi-modal Voice Assistant Interface",
+                    "objective": null
+                  }
+                ]
               }
             ],
             "sessionOwners": [
@@ -142,7 +147,7 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl, 4 floor"
           },
           {
             "time": "11:30 - 12:00",
@@ -150,7 +155,12 @@
             "objectives": [
               {
                 "title": "ODC Visit - Understanding the HOW",
-                "objective": null
+                "objectives": [
+                  {
+                    "title": "Understand success stories, best practices and how US Bank can adopt some of these models",
+                    "objective": null
+                  }
+                ]
               }
             ],
             "sessionOwners": [
@@ -163,7 +173,7 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Team Area"
           },
           {
             "time": "12:00 - 1:00",
@@ -180,7 +190,7 @@
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl, 4 floor"
           },
           {
             "time": "1:00",
@@ -204,7 +214,7 @@
             "location": ""
           },
           {
-            "time": "9:45 - 10:15",
+            "time": "9:30 - 9:45",
             "agenda": "Meet And Greet",
             "objectives": [
               {
@@ -225,145 +235,151 @@
             "location": "Fishbowl"
           },
           {
-            "time": "9:15 - 9:45",
-            "agenda": "Sapient India Overview",
-            "objectives": [
-              {
-                "title": "Overview of Sapient India",
-                "objective": null
-              },
-              {
-                "title": "India Facts",
-                "objective": null
-              },
-              {
-                "title": "How We are Different",
-                "objective": null
-              },
-              {
-                "title": "Our Purpose and Values",
-                "objective": null
-              },
-              {
-                "title": "Our Expertise",
-                "objective": null
-              }
-            ],
-            "sessionOwners": [
-              {
-                "name": "Sanjay Menon",
-                "capabilities": ""
-              }
-            ],
-            "location": "Sapient Bengaluru"
-          },
-          {
             "time": "9:45 - 10:15",
-            "agenda": "Experience/Engineering Demo",
+            "agenda": "Reflections 2019",
             "objectives": [
               {
-                "title": "PS in Digital Business Transformation",
+                "title": "Meet leads",
                 "objective": null
               },
               {
-                "title": "Showcase Sapient's Capabilities",
-                "objective": [
-                  {
-                    "title": "Above the glass (Design, UX, UI)",
-                    "objective": null
-                  },
-                  {
-                    "title": "Below the glass (Microservices, APIs, Cloud)",
-                    "objective": null
-                  },
-                  {
-                    "title": "Data and Analytics",
-                    "objective": null
-                  }
-                ]
+                "title": "Project delivered",
+                "objective": null
+              },
+              {
+                "title": "Growth",
+                "objective": null
+              },
+              {
+                "title": "Reflections",
+                "objective": null
               }
             ],
             "sessionOwners": [
               {
-                "name": "Tilak Doddapaneni",
+                "name": "Vamsi",
+                "capabilities": ""
+              },
+              {
+                "name": "Poornima Vasdev",
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "Fishbowl"
           },
           {
-            "time": "10:15 - 11:30",
-            "agenda": "GS Leadership Connect",
+            "time": "10:15 - 10:30",
+            "agenda": "US Bank ODC Visit",
             "objectives": [
               {
-                "title": "Customer Experience Case Study - Demonstrate Team's thinking",
+                "title": "US Bant ODC Area Visit",
                 "objective": null
               }
             ],
             "sessionOwners": [
               {
-                "name": "Mark Wagner",
-                "capabilities": "(Design, UX)"
-              },
-              {
-                "name": "Vamsi Krishna",
-                "capabilities": "(Mobile, Wearables, Voice)"
-              },
-              {
-                "name": "Kumar Gaurav",
-                "capabilities": "(Reactive Web)"
-              },
-              {
-                "name": "Raja Raman",
+                "name": "Poornima Vasdev",
                 "capabilities": ""
               }
             ],
-            "location": "Sapient Bengaluru"
+            "location": "USB ODC"
           },
           {
-            "time": "11:30 - 12:00",
-            "agenda": "ODC Visit (Large US Bank)",
+            "time": "10:30 - 12:00",
+            "agenda": "US Bank All Hands",
             "objectives": [
               {
-                "title": "ODC Visit - Understanding the HOW",
-                "objective": null
-              }
-            ],
-            "sessionOwners": [
-              {
-                "name": "Anil Dhulapannavar",
-                "capabilities": ""
+                "title": "US Bank 2020 Roadmap",
+                "objective": null,
+                "owner": "Alan Kinny/Ankit Bhat"
               },
               {
-                "name": "Soruja Yasmin Mazumdar",
-                "capabilities": ""
+                "title": "PS USB Team 2019 Achievements",
+                "objective": null,
+                "owner": "Poornima Vasdev",
+                "link" : true
+              },
+              {
+                "title": "PS 2020 Engineering Roadmap",
+                "objective": null,
+                "owner": "Raja Raman",
+                "link": true
+              },
+              {
+                "title": "Rewards & Recognitions",
+                "objective": null,
+                "owner": "Sandeep + Mudit"
               }
             ],
-            "location": "Sapient Bengaluru"
+            "sessionOwners": null,
+            "location": "First Floor Cafeteria"
           },
           {
             "time": "12:00 - 1:00",
-            "agenda": "Partnering Together (Working Lunch)",
-            "objectives": [
-              {
-                "title": "Thoughts on how we could work better together",
-                "objective": null
-              }
-            ],
-            "sessionOwners": [
-              {
-                "name": "US Bank Leadership \u0026 Publicis Sapient Leadership",
-                "capabilities": ""
-              }
-            ],
-            "location": "Sapient Bengaluru"
+            "agenda": "Lunch",
+            "objective": "",
+            "sessionOwners": null,
+            "location": ""
           },
           {
-            "time": "1:00",
+            "time": "1:00 - 3:00",
+            "agenda": "Innovations/Accelerators",
+            "objectives": [
+              {
+                "title": "Mobile",
+                "objective": null,
+                "owner": "Vamsi Krishna",
+                "link" : true
+              },
+              {
+                "title": "Web",
+                "objective": null,
+                "owner": "Kumar Gaurav",
+                "link" : true
+              },
+              {
+                "title": "Design",
+                "objective": null,
+                "owner": "Deepali Nayar",
+                "link": true
+              },
+              {
+                "title": "Below the Glass",
+                "objective": null,
+                "owner": "Raja Raman"
+              },
+              {
+                "title": "Cloud",
+                "objective": null,
+                "owner": "Raja Raman"
+              }
+            ],
+            "sessionOwners": null,
+            "location": "Fishbowl"
+          },
+          {
+            "time": "3:00 - 3:15",
             "agenda": "Wrap Up",
             "objective": "",
             "sessionOwners": null,
             "location": ""
+          },
+          {
+            "time": "3:15 - 4:00",
+            "agenda": "HOW Kitchen",
+            "objectives": [
+              {
+                "title": "Ways of Working",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Poornima Vasdev",
+                "capabilities": ""
+              }
+            ],
+            "location": "Fishbowl"
           }
         ]
       }
@@ -377,8 +393,8 @@
         "id": "spand",
         "name": "Sandeep Pandey",
         "designation": "Senior Manager Program Management",
-        "phone": "+91-9999999999",
-        "email": "abc.def@mail.com",
+        "phone": "+91-9811592512",
+        "email": "sandeep.pandey@publicissapient.com",
         "address": "Publicis Sapient\nOxygen Business Park Pvt Ltd, SEZ,\nTower C, Ground to 4th floor\nPlot No. 7, Sector 144 Expressway\nNoida 201301, Uttar Pradesh, India",
         "mapsLink": "",
         "bio": "BoJack Horseman is a self-loathing 52-year-old alcoholic horse whose acting career peaked when he starred in a successful family sitcom called Horsin' Around in the late 1980s and later 'The Bojack Horseman Show' which was cancelled after one season, in 2007.\n\nThough he began as a young bright-eyed actor, he has since grown bitter, deeply depressed, and jaded towards Hollywood and who he has become post-fame. BoJack has been shown to be caring and insightful, but his insecurities, loneliness, and desperate need for approval often result in self-destructive actions that devastate those around him.\n\nMany of his issues stem from his childhood and issues with his unhappy parents, which the audience is shown through flashbacks.",
@@ -396,7 +412,7 @@
         "designation": "Managing Director, Publicis Sapient, India",
         "phone": "+91-9810008508",
         "email": "sanjay.menon@publicissapient.com",
-        "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability\ndevelopment, and growth of Publicis Sapient's India presence and maintain its status as hub of the company's\nglobally distributed delivery network\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient's India\noperations since its inception He has served in various business and delivery roles including running key account\nP\u0026Ls, managing global delivery for some of the business units as well as growing digital marketing services\ncapability from India.\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of\nPricewaterhouseCoopers He holds a Bachelor's Degree in Business Studies and a Master's Degree in Finance",
+        "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability development, and growth of Publicis Sapient's India presence and maintain its status as hub of the company's globally distributed delivery network\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient's India\noperations since its inception He has served in various business and delivery roles including running key account's, managing global delivery for some of the business units as well as growing digital marketing services capability from India. Prior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of PricewaterhouseCoopers He holds a Bachelor's Degree in Business Studies and a Master's Degree in Finance",
         "image_path": "/images/sanjay.png",
         "link_linkedin": "www.linkedin.com/in/",
         "image": "/images/agenda.png",
@@ -408,7 +424,7 @@
         "designation": "Executive Vice President",
         "phone": "+91-7760976956",
         "email": "tilak.doddapaneni@publicissapient.com",
-        "bio": "Tilak is accountable for the engineering and running of the China products at Tesco. He provides technical\nleadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile\nchannels at Tesco\nAdditionally, Tilak also works in tandem with Program Director and Product Owners on the roadmap so that the\nTechnology and Engineering aspects are taken into account for the planning and release roadmap\nHis team operate in Agile/Devops model on each team does design, development",
+        "bio": "Tilak is accountable for the engineering and running of the China products at Tesco. He provides technical leadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile channels at TescoAdditionally, Tilak also works in tandem with Program Director and Product Owners on the roadmap so that the\nTechnology and Engineering aspects are taken into account for the planning and release roadmap\nHis team operate in Agile/Devops model on each team does design, development",
         "image_path": "/images/tilak.png",
         "link_linkedin": "www.linkedin.com/in/",
         "image": "images/agenda.png",
