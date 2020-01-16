@@ -371,7 +371,7 @@
   },
   "poc": {
     "pageTitle": "POC",
-    "image": "images/agenda.png",
+    "image": "/images/agenda.png",
     "list": [
       {
         "id": "spand",
@@ -388,18 +388,18 @@
   },
   "speakerProfile": {
     "pageTitle": "Speaker Profile",
-    "image": "https://www.tajmahal.gov.in/images/banners/1.jpg",
+    "image": "/images/agenda.png",
     "data": {
       "Sanjay Menon": {
         "id": "sanmenno",
-        "name": "Sanjay Mennon",
+        "name": "Sanjay Menon",
         "designation": "Managing Director, Publicis Sapient, India",
         "phone": "+91-9810008508",
         "email": "sanjay.menon@publicissapient.com",
         "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability\ndevelopment, and growth of Publicis Sapient's India presence and maintain its status as hub of the company's\nglobally distributed delivery network\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient's India\noperations since its inception He has served in various business and delivery roles including running key account\nP\u0026Ls, managing global delivery for some of the business units as well as growing digital marketing services\ncapability from India.\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of\nPricewaterhouseCoopers He holds a Bachelor's Degree in Business Studies and a Master's Degree in Finance",
-        "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
+        "image_path": "/images/sanjay.png",
         "link_linkedin": "www.linkedin.com/in/",
-        "image": "images/agenda.png",
+        "image": "/images/agenda.png",
         "isVisible": "true"
       },
       "Tilak Doddapaneni": {
@@ -409,7 +409,7 @@
         "phone": "+91-7760976956",
         "email": "tilak.doddapaneni@publicissapient.com",
         "bio": "Tilak is accountable for the engineering and running of the China products at Tesco. He provides technical\nleadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile\nchannels at Tesco\nAdditionally, Tilak also works in tandem with Program Director and Product Owners on the roadmap so that the\nTechnology and Engineering aspects are taken into account for the planning and release roadmap\nHis team operate in Agile/Devops model on each team does design, development",
-        "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
+        "image_path": "/images/tilak.png",
         "link_linkedin": "www.linkedin.com/in/",
         "image": "images/agenda.png",
         "isVisible": "true"
