@@ -346,12 +346,14 @@
               {
                 "title": "Below the Glass",
                 "objective": null,
-                "owner": "Raja Raman"
+                "owner": "Raja Raman",
+                "link": true
               },
               {
                 "title": "Cloud",
                 "objective": null,
-                "owner": "Raja Raman"
+                "owner": "Raja Raman",
+                "link": true
               }
             ],
             "sessionOwners": null,
@@ -398,7 +400,7 @@
         "address": "Publicis Sapient\nOxygen Business Park Pvt Ltd, SEZ,\nTower C, Ground to 4th floor\nPlot No. 7, Sector 144 Expressway\nNoida 201301, Uttar Pradesh, India",
         "mapsLink": "",
         "bio": "BoJack Horseman is a self-loathing 52-year-old alcoholic horse whose acting career peaked when he starred in a successful family sitcom called Horsin' Around in the late 1980s and later 'The Bojack Horseman Show' which was cancelled after one season, in 2007.\n\nThough he began as a young bright-eyed actor, he has since grown bitter, deeply depressed, and jaded towards Hollywood and who he has become post-fame. BoJack has been shown to be caring and insightful, but his insecurities, loneliness, and desperate need for approval often result in self-destructive actions that devastate those around him.\n\nMany of his issues stem from his childhood and issues with his unhappy parents, which the audience is shown through flashbacks.",
-        "image_path": "/images/sanjay.png"
+        "image_path": "/images/profile.png"
       }
     ]
   },
@@ -437,7 +439,7 @@
         "phone": "+91-7760976956",
         "email": "poornima.vasdev@publicissapient.com",
         "bio": "Bio Needed",
-        "image_path": "/images/tilak.png",
+        "image_path": "/images/profile.png",
         "link_linkedin": "www.linkedin.com/in/",
         "image": "images/agenda.png",
         "isVisible": "false"
