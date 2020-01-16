@@ -429,7 +429,7 @@
         "bio": "Tilak is accountable for the engineering and running of the China products at Tesco. He provides technical leadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile channels at TescoAdditionally, Tilak also works in tandem with Program Director and Product Owners on the roadmap so that the\nTechnology and Engineering aspects are taken into account for the planning and release roadmap\nHis team operate in Agile/Devops model on each team does design, development",
         "image_path": "/images/tilak.png",
         "link_linkedin": "www.linkedin.com/in/",
-        "image": "images/agenda.png",
+        "image": "/images/agenda.png",
         "isVisible": "true"
       },
       "Poornima Vasdev": {
@@ -441,7 +441,7 @@
         "bio": "Bio Needed",
         "image_path": "/images/profile.png",
         "link_linkedin": "www.linkedin.com/in/",
-        "image": "images/agenda.png",
+        "image": "/images/agenda.png",
         "isVisible": "false"
       }
     }
