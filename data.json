@@ -1,0 +1,415 @@
+{
+  "welcome": {
+    "header": {
+      "type": "image",
+      "url": "https://www.tajmahal.gov.in/images/banners/1.jpg"
+    },
+    "content": [
+      {
+        "icon": "",
+        "text": "\u003cb\u003eDear Gareth, Ankit, Lance, Alan, Dilip\u003c/b\u003e\u003cp\u003eWelcome to Publicis Sapient India. We are delighted to host you.\u003c/p\u003e\u003cp\u003eOur CEO, Nigel Vaz has a brief \u003ca href=\"https://lion.app.box.com/s/uf1jtmf4ezcntr60orqepif8f33meup0\"\u003emessage\u003c/a\u003efor you providing an introduction to our company and services.\u003c/p\u003e\u003cp\u003eAs part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account members.\u003c/p\u003e\u003cp\u003eBangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.\u003c/p\u003e\u003cp\u003eNoida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.\u003c/p\u003e\u003cp\u003eThe agenda has been enclosed for your reference. Please feel free to contact Sandeep Pandey for any assistance you may need. You can reach him on \u003ca href=\"tel:+91 9811592512\"\u003e+91 9811592512\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWishing you a memorable and wonderful stay!\u003c/p\u003e\u003cp\u003eBest Regards,\u003c/p\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003ePoornima Vasdev\u003c/b\u003e\u003cbr\u003eVP Project Management"
+      }
+    ]
+  },
+  "agenda": {
+    "pageTitle": "Agenda",
+    "image": "https://www.tajmahal.gov.in/images/banners/1.jpg",
+    "list": [
+      {
+        "title": "Day O1",
+        "date": "22 January",
+        "pageTitle": "Agenda Day 01",
+        "schedule": [
+          {
+            "time": "8:30 - 9:00",
+            "agenda": "Travel to Publicis Sapient, Bangalore Office",
+            "objective": "",
+            "sessionOwners": null,
+            "location": ""
+          },
+          {
+            "time": "9:00 - 9:15",
+            "agenda": "Meet And Greet",
+            "objectives": [
+              {
+                "title": "Introductions",
+                "objective": null
+              },
+              {
+                "title": "Agenda Walkthrough",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Poornima Vasdev",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "9:15 - 9:45",
+            "agenda": "Sapient India Overview",
+            "objectives": [
+              {
+                "title": "Overview of Sapient India",
+                "objective": null
+              },
+              {
+                "title": "India Facts",
+                "objective": null
+              },
+              {
+                "title": "How We are Different",
+                "objective": null
+              },
+              {
+                "title": "Our Purpose and Values",
+                "objective": null
+              },
+              {
+                "title": "Our Expertise",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Sanjay Menon",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "9:45 - 10:15",
+            "agenda": "Experience/Engineering Demo",
+            "objectives": [
+              {
+                "title": "PS in Digital Business Transformation",
+                "objective": null
+              },
+              {
+                "title": "Showcase Sapient's Capabilities",
+                "objective": [
+                  {
+                    "title": "Above the glass (Design, UX, UI)",
+                    "objective": null
+                  },
+                  {
+                    "title": "Below the glass (Microservices, APIs, Cloud)",
+                    "objective": null
+                  },
+                  {
+                    "title": "Data and Analytics",
+                    "objective": null
+                  }
+                ]
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Tilak Doddapaneni",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "10:15 - 11:30",
+            "agenda": "GS Leadership Connect",
+            "objectives": [
+              {
+                "title": "Customer Experience Case Study - Demonstrate Team's thinking",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Mark Wagner",
+                "capabilities": "(Design, UX)"
+              },
+              {
+                "name": "Vamsi Krishna",
+                "capabilities": "(Mobile, Wearables, Voice)"
+              },
+              {
+                "name": "Kumar Gaurav",
+                "capabilities": "(Reactive Web)"
+              },
+              {
+                "name": "Raja Raman",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "11:30 - 12:00",
+            "agenda": "ODC Visit (Large US Bank)",
+            "objectives": [
+              {
+                "title": "ODC Visit - Understanding the HOW",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Anil Dhulapannavar",
+                "capabilities": ""
+              },
+              {
+                "name": "Soruja Yasmin Mazumdar",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "12:00 - 1:00",
+            "agenda": "Partnering Together (Working Lunch)",
+            "objectives": [
+              {
+                "title": "Thoughts on how we could work better together",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "US Bank Leadership \u0026 Publicis Sapient Leadership",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "1:00",
+            "agenda": "Wrap Up",
+            "objective": "",
+            "sessionOwners": null,
+            "location": ""
+          }
+        ]
+      },
+      {
+        "title": "Day O2",
+        "date": "27 January",
+        "pageTitle": "Agenda Day 02",
+        "schedule": [
+          {
+            "time": "9:00 - 9:30",
+            "agenda": "Travel to Publicis Sapient, Noida Office",
+            "objective": "",
+            "sessionOwners": null,
+            "location": ""
+          },
+          {
+            "time": "9:45 - 10:15",
+            "agenda": "Meet And Greet",
+            "objectives": [
+              {
+                "title": "Introductions",
+                "objective": null
+              },
+              {
+                "title": "Agenda Walkthrough",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Poornima Vasdev",
+                "capabilities": ""
+              }
+            ],
+            "location": "Fishbowl"
+          },
+          {
+            "time": "9:15 - 9:45",
+            "agenda": "Sapient India Overview",
+            "objectives": [
+              {
+                "title": "Overview of Sapient India",
+                "objective": null
+              },
+              {
+                "title": "India Facts",
+                "objective": null
+              },
+              {
+                "title": "How We are Different",
+                "objective": null
+              },
+              {
+                "title": "Our Purpose and Values",
+                "objective": null
+              },
+              {
+                "title": "Our Expertise",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Sanjay Menon",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "9:45 - 10:15",
+            "agenda": "Experience/Engineering Demo",
+            "objectives": [
+              {
+                "title": "PS in Digital Business Transformation",
+                "objective": null
+              },
+              {
+                "title": "Showcase Sapient's Capabilities",
+                "objective": [
+                  {
+                    "title": "Above the glass (Design, UX, UI)",
+                    "objective": null
+                  },
+                  {
+                    "title": "Below the glass (Microservices, APIs, Cloud)",
+                    "objective": null
+                  },
+                  {
+                    "title": "Data and Analytics",
+                    "objective": null
+                  }
+                ]
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Tilak Doddapaneni",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "10:15 - 11:30",
+            "agenda": "GS Leadership Connect",
+            "objectives": [
+              {
+                "title": "Customer Experience Case Study - Demonstrate Team's thinking",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Mark Wagner",
+                "capabilities": "(Design, UX)"
+              },
+              {
+                "name": "Vamsi Krishna",
+                "capabilities": "(Mobile, Wearables, Voice)"
+              },
+              {
+                "name": "Kumar Gaurav",
+                "capabilities": "(Reactive Web)"
+              },
+              {
+                "name": "Raja Raman",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "11:30 - 12:00",
+            "agenda": "ODC Visit (Large US Bank)",
+            "objectives": [
+              {
+                "title": "ODC Visit - Understanding the HOW",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "Anil Dhulapannavar",
+                "capabilities": ""
+              },
+              {
+                "name": "Soruja Yasmin Mazumdar",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "12:00 - 1:00",
+            "agenda": "Partnering Together (Working Lunch)",
+            "objectives": [
+              {
+                "title": "Thoughts on how we could work better together",
+                "objective": null
+              }
+            ],
+            "sessionOwners": [
+              {
+                "name": "US Bank Leadership \u0026 Publicis Sapient Leadership",
+                "capabilities": ""
+              }
+            ],
+            "location": "Sapient Bengaluru"
+          },
+          {
+            "time": "1:00",
+            "agenda": "Wrap Up",
+            "objective": "",
+            "sessionOwners": null,
+            "location": ""
+          }
+        ]
+      }
+    ]
+  },
+  "poc": {
+    "pageTitle": "POC",
+    "image": "https://www.tajmahal.gov.in/images/banners/1.jpg",
+    "list": [
+      {
+        "id": "spand",
+        "name": "Sandeep Pandey",
+        "designation": "Senior Manager Program Management",
+        "phone": "+91-9999999999",
+        "email": "abc.def@mail.com",
+        "address": "Publicis Sapient\nOxygen Business Park Pvt Ltd, SEZ,\nTower C, Ground to 4th floor\nPlot No. 7, Sector 144 Expressway\nNoida 201301, Uttar Pradesh, India",
+        "mapsLink": "",
+        "bio": "BoJack Horseman is a self-loathing 52-year-old alcoholic horse whose acting career peaked when he starred in a successful family sitcom called Horsin' Around in the late 1980s and later 'The Bojack Horseman Show' which was cancelled after one season, in 2007.\n\nThough he began as a young bright-eyed actor, he has since grown bitter, deeply depressed, and jaded towards Hollywood and who he has become post-fame. BoJack has been shown to be caring and insightful, but his insecurities, loneliness, and desperate need for approval often result in self-destructive actions that devastate those around him.\n\nMany of his issues stem from his childhood and issues with his unhappy parents, which the audience is shown through flashbacks.",
+        "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg"
+      }
+    ]
+  },
+  "speakerProfile": {
+    "pageTitle": "Speaker Profile",
+    "image": "https://www.tajmahal.gov.in/images/banners/1.jpg",
+    "data": {
+      "Sanjay Menon": {
+        "id": "sanmenno",
+        "name": "Sanjay Mennon",
+        "designation": "Managing Director, Publicis Sapient, India",
+        "phone": "+91-9810008508",
+        "email": "sanjay.menon@publicissapient.com",
+        "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability\ndevelopment, and growth of Publicis Sapient's India presence and maintain its status as hub of the company's\nglobally distributed delivery network\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient's India\noperations since its inception He has served in various business and delivery roles including running key account\nP\u0026Ls, managing global delivery for some of the business units as well as growing digital marketing services\ncapability from India.\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of\nPricewaterhouseCoopers He holds a Bachelor's Degree in Business Studies and a Master's Degree in Finance",
+        "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
+        "link_linkedin": "www.linkedin.com/in/"
+      },
+      "Tilak Doddapaneni": {
+        "id": "tildodda",
+        "name": "Tilak Doddapaneni",
+        "designation": "Executive Vice President",
+        "phone": "+91-7760976956",
+        "email": "tilak.doddapaneni@publicissapient.com",
+        "bio": "Tilak is accountable for the engineering and running of the China products at Tesco. He provides technical\nleadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile\nchannels at Tesco\nAdditionally, Tilak also works in tandem with Program Director and Product Owners on the roadmap so that the\nTechnology and Engineering aspects are taken into account for the planning and release roadmap\nHis team operate in Agile/Devops model on each team does design, development",
+        "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
+        "link_linkedin": "www.linkedin.com/in/"
+      }
+    }
+  }
+}
