@@ -297,7 +297,7 @@
                 "title": "PS USB Team 2019 Achievements",
                 "objective": null,
                 "owner": "Poornima Vasdev",
-                "link" : true
+                "link": true
               },
               {
                 "title": "PS 2020 Engineering Roadmap",
@@ -329,13 +329,13 @@
                 "title": "Mobile",
                 "objective": null,
                 "owner": "Vamsi Krishna",
-                "link" : true
+                "link": true
               },
               {
                 "title": "Web",
                 "objective": null,
                 "owner": "Kumar Gaurav",
-                "link" : true
+                "link": true
               },
               {
                 "title": "Design",
@@ -414,7 +414,7 @@
         "designation": "Managing Director, Publicis Sapient, India",
         "phone": "",
         "email": "sanjay.menon@publicissapient.com",
-        "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability development, and growth of Publicis Sapient’s India presence and maintain its status as hub of the company’s globally distributed delivery network.\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient’s India operations since its inception. He has served in various business and delivery roles including running key account P&Ls, managing global delivery for some of the business units as well as growing digital marketing services capability from India.\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of PricewaterhouseCoopers. He holds a Bachelor’s Degree in Business Studies and a Master’s Degree in Finance",
+        "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability development, and growth of Publicis Sapient’s India presence and maintain its status as hub of the company’s globally distributed delivery network.\n\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient’s India operations since its inception. He has served in various business and delivery roles including running key account P&Ls, managing global delivery for some of the business units as well as growing digital marketing services capability from India.\n\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of PricewaterhouseCoopers. He holds a Bachelor’s Degree in Business Studies and a Master’s Degree in Finance.",
         "image_path": "/images/sanjay.png",
         "link_linkedin": "www.linkedin.com/in/sanjay-menon-532a40",
         "image": "/images/agenda.png",
@@ -426,7 +426,7 @@
         "designation": "Executive Vice President",
         "phone": "+",
         "email": "tilak.doddapaneni@publicissapient.com",
-        "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe\nto build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
+        "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe to build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
         "image_path": "/images/tilak.png",
         "link_linkedin": "www.linkedin.com/in/tilakdoddapaneni",
         "image": "/images/agenda.png",
@@ -450,7 +450,7 @@
         "designation": "Executive Vice President, Publicis Sapient, NA",
         "phone": "+",
         "email": "david.donovan@publicissapient.com",
-        "bio": "David Donovan, Executive Vice President, oversees Publicis Sapient’s entire financial services portfolio for the Americas. He is responsible for setting operational and marketing strategies for the firm and managing relationships with top global investment banks.\nSince joining Publicis Sapient in 2005, his deep understanding of business, regulatory, operations and technology challenges facing C-suite executives, has enabled Donovan to help develop top strategic initiatives to evolve our business and improve the company’s ability to deliver transformative work.   Donovan brings 25 years of expertise working on Wall Street as an institutional equity trader, including 14 years as the sector leader of technology trading for Fidelity Management and Research, when working with investment banks and asset managers.",
+        "bio": "David Donovan, Executive Vice President, oversees Publicis Sapient’s entire financial services portfolio for the Americas. He is responsible for setting operational and marketing strategies for the firm and managing relationships with top global investment banks.\n\nSince joining Publicis Sapient in 2005, his deep understanding of business, regulatory, operations and technology challenges facing C-suite executives, has enabled Donovan to help develop top strategic initiatives to evolve our business and improve the company’s ability to deliver transformative work.   Donovan brings 25 years of expertise working on Wall Street as an institutional equity trader, including 14 years as the sector leader of technology trading for Fidelity Management and Research, when working with investment banks and asset managers.",
         "image_path": "/images/davidd.jpg",
         "link_linkedin": "www.linkedin.com/in/davidkdonovan",
         "image": "/images/agenda.jpg",
@@ -462,7 +462,7 @@
         "designation": "Head of Financial Services Center of Excellence",
         "phone": "+",
         "email": "david.poole@publicissapient.com",
-        "bio": "David leads Publicis Sapient’s Financial Services Center of Excellence, responsible for supporting clients in thought leadership, innovation, digital transformation, and insight into customer trends.\nPast work includes experience strategy for U.S. Bank, TD, Citi, SunTrust Bank, Visa and digital product innovation for Goldman Sachs.\nDavid has been a speaker on the future of payments at industry events including Money20/20, FIMA, NextBank and CXFS. He is a change agent with 20 + years experience as a researcher, planner and consultant—sharing his passion for making it fun to be financially healthy.",
+        "bio": "David leads Publicis Sapient’s Financial Services Center of Excellence, responsible for supporting clients in thought leadership, innovation, digital transformation, and insight into customer trends.\n\nPast work includes experience strategy for U.S. Bank, TD, Citi, SunTrust Bank, Visa and digital product innovation for Goldman Sachs.\n\nDavid has been a speaker on the future of payments at industry events including Money20/20, FIMA, NextBank and CXFS. He is a change agent with 20 + years experience as a researcher, planner and consultant—sharing his passion for making it fun to be financially healthy.",
         "image_path": "/images/davidp.jpg",
         "link_linkedin": "www.linkedin.com/in/davidjpoole",
         "image": "/images/agenda.png",
@@ -474,7 +474,7 @@
         "designation": "Senior Client Partner, Minneapolis, MN",
         "phone": "+",
         "email": "amy.betty@publicissapient.com",
-        "bio": "In her role of Senior Client Partner in the Financial Services practice, Amy is accountable to Publicis Sapient’s clients for overall client satisfaction and oversight of the Publicis Sapient team members who are accountable for achieving client business objectives.\nAmy has 23 years of experience that spans agency, consulting and software and has a passion of using creativity and technology to achieve business results and build strong relationships with clients. Her approach ensures an open dialogue with each client every day, ensuring alignment around objectives even as market conditions change.\nShe has worked effectively with clients such as U.S. Bank, UnitedHealthcare, Williams-Sonoma, General Mills, and Starz Entertainment and has produced work recognized by Appy Awards and One Show. Amy has a BA in Biology from St. Olaf College and an MBA from The Carlson School of Management at the University of Minnesota.",
+        "bio": "In her role of Senior Client Partner in the Financial Services practice, Amy is accountable to Publicis Sapient’s clients for overall client satisfaction and oversight of the Publicis Sapient team members who are accountable for achieving client business objectives.\n\nAmy has 23 years of experience that spans agency, consulting and software and has a passion of using creativity and technology to achieve business results and build strong relationships with clients. Her approach ensures an open dialogue with each client every day, ensuring alignment around objectives even as market conditions change.\n\nShe has worked effectively with clients such as U.S. Bank, UnitedHealthcare, Williams-Sonoma, General Mills, and Starz Entertainment and has produced work recognized by Appy Awards and One Show. Amy has a BA in Biology from St. Olaf College and an MBA from The Carlson School of Management at the University of Minnesota.",
         "image_path": "/images/amy_new.jpg",
         "link_linkedin": "www.linkedin.com/in/amyandersonbetty",
         "image": "/images/agenda.png",
@@ -486,7 +486,7 @@
         "designation": "GVP Executive Creative Director, NA",
         "phone": "+",
         "email": "wendy.johansson@publicissapient.com",
-        "bio": "Wendy Johansson is Global Vice President, Experience Transformation Lead at Publicis Sapient where she works closely with tech legend and Publicis Sapient CXO John Maeda. Wendy is part of a team forging an engineering and design partnership to establish a deeply technologically grounded future where creativity is fully integrated into Publicis Sapient’s client services.\nWendy built her career in leading UX teams as an early employee at successful early-stage startups. She was the first designer at Loopt, Sam Altman’s YC-funded startup that later sold for $43 million. As the UX manager at Ooyala, she helped build the marketing, videography, and UX teams before the company was sold to Telstra for $400M. Wendy also led the global UX team at AppNexus, sold to AT&T for $1.6B, before co-founding Wizeline, a global product consultancy, in 2013.",
+        "bio": "Wendy Johansson is Global Vice President, Experience Transformation Lead at Publicis Sapient where she works closely with tech legend and Publicis Sapient CXO John Maeda. Wendy is part of a team forging an engineering and design partnership to establish a deeply technologically grounded future where creativity is fully integrated into Publicis Sapient’s client services.\n\nWendy built her career in leading UX teams as an early employee at successful early-stage startups. She was the first designer at Loopt, Sam Altman’s YC-funded startup that later sold for $43 million. As the UX manager at Ooyala, she helped build the marketing, videography, and UX teams before the company was sold to Telstra for $400M. Wendy also led the global UX team at AppNexus, sold to AT&T for $1.6B, before co-founding Wizeline, a global product consultancy, in 2013.",
         "image_path": "/images/wendy.png",
         "link_linkedin": "www.linkedin.com/in/wendyjohansson",
         "image": "/images/agenda.png",
@@ -498,7 +498,7 @@
         "designation": "Vice President Technology, Publicis Sapient, India",
         "phone": "+",
         "email": "raja.raman@publicissapient.com",
-        "bio": "Spending over 19 years in Sapient, Raja has worked an engineering lead over a number of projects. His responsibilities include defining technology architecture, guiding teams on design and architecture decisions, hands-on coding, working with product owners on shaping requirements, and guiding and mentoring technologists. As an additional responsibility, Raja is also responsible for Java capabilities at Publicis Sapient, which involves defining and managing hiring processes for Java, creating learning plans, competency models, assessment tests and consulting projects on java decisions.\nPrior to joining Sapient, Raja worked as a Software Engineer in IBM where he worked on a range of open systems and mainframe. He holds a Bachelor’s Degree in Engineering.",
+        "bio": "Spending over 19 years in Sapient, Raja has worked an engineering lead over a number of projects. His responsibilities include defining technology architecture, guiding teams on design and architecture decisions, hands-on coding, working with product owners on shaping requirements, and guiding and mentoring technologists. As an additional responsibility, Raja is also responsible for Java capabilities at Publicis Sapient, which involves defining and managing hiring processes for Java, creating learning plans, competency models, assessment tests and consulting projects on java decisions.\n\nPrior to joining Sapient, Raja worked as a Software Engineer in IBM where he worked on a range of open systems and mainframe. He holds a Bachelor’s Degree in Engineering.",
         "image_path": "/images/raja.jpg",
         "link_linkedin": "www.linkedin.com/in/raja-raman-94777",
         "image": "/images/agenda.png",
@@ -510,7 +510,7 @@
         "designation": "Group Creative Director, Experience. Publicis Sapient, Minneapolis",
         "phone": "+",
         "email": "mark.wagner@publicissapient.com",
-        "bio": "For the last 6 years Mark has directed and led the PS Experience Practice for Publicis Sapient Minneapolis.\nMark leverages over 20 years of design expertise, leading various product and design teams in delivering outcome-driven work that exceed client expectations while maintaining results-oriented, customer-centered goals.\ngoals.During his career Mark has helped conceive and deliver innovative user experiences crossing complex B-to-B and B-to-C challenges for financial services, healthcare, manufacturing, and retail. Prior to PS, Mark has worked on both client- and agency-environments.\nHis focus areas include experience strategy, digital product innovation, design, and design operations.",
+        "bio": "For the last 6 years Mark has directed and led the PS Experience Practice for Publicis Sapient Minneapolis.\n\nMark leverages over 20 years of design expertise, leading various product and design teams in delivering outcome-driven work that exceed client expectations while maintaining results-oriented, customer-centered goals.\n\nDuring his career Mark has helped conceive and deliver innovative user experiences crossing complex B-to-B and B-to-C challenges for financial services, healthcare, manufacturing, and retail. Prior to PS, Mark has worked on both client- and agency-environments.\n\nHis focus areas include experience strategy, digital product innovation, design, and design operations.",
         "image_path": "/images/mark.jpg",
         "link_linkedin": "www.linkedin.com/in/markphillipwagner/",
         "image": "/images/agenda.png",
@@ -522,36 +522,36 @@
         "designation": "Associate Creative Director",
         "phone": "+",
         "email": "deepali.nayar@publicissapient.com",
-        "bio": "A designer with 15 years of experience, bringing designs to life through experience based solutions. With a proven knowledge of creative direction, communication design and user experience, she helps to provide a visual identity to creative strategy for any brand and translate those experiences into tangible user interface solutions.\nShe collaborates with account executives to collate client requirements and directs & motivates the team of art directors, illustrators, copywriters etc. to help them use their talents effectively. She is responsible to inspire, lead, develop and grow creative business/projects/team.\nShe has gained immense exposure and learning with her global experience of working with clients and teams from Boston, Washington DC, New York, Singapore, China and Hong Kong.\nWorking with global giants and world’s greatest brands and consumers across multiple touch points from print and digital has been part of her eventful and impactful journey. To name a few: US Bank, Citibank, Citizens Bank, Bank of America, Lane Crawford, SingTel, EPB, Unilever, Huawei Honor, etc.",
+        "bio": "A designer with 15 years of experience, bringing designs to life through experience based solutions. With a proven knowledge of creative direction, communication design and user experience, she helps to provide a visual identity to creative strategy for any brand and translate those experiences into tangible user interface solutions.\n\nShe collaborates with account executives to collate client requirements and directs & motivates the team of art directors, illustrators, copywriters etc. to help them use their talents effectively. She is responsible to inspire, lead, develop and grow creative business/projects/team.\n\nShe has gained immense exposure and learning with her global experience of working with clients and teams from Boston, Washington DC, New York, Singapore, China and Hong Kong.\n\nWorking with global giants and world’s greatest brands and consumers across multiple touch points from print and digital has been part of her eventful and impactful journey. To name a few: US Bank, Citibank, Citizens Bank, Bank of America, Lane Crawford, SingTel, EPB, Unilever, Huawei Honor, etc.",
         "image_path": "/images/deepali.jpg",
         "link_linkedin": "www.linkedin.com/in/deepali-nayar-3126136",
         "image": "/images/agenda.png",
         "isVisible": "true"
+      },
+      "Nigel Vaz": {
+        "id": "Nigel Vaz",
+        "name": "Nigel Vaz",
+        "designation": "CEO, Publicis Sapient",
+        "phone": "+",
+        "email": "nigel.vaz@publicissapient.com",
+        "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
+        "image_path": "/images/nigel.png",
+        "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
+        "image": "/images/agenda.png",
+        "isVisible": "true"
+      },
+      "Vamsi Krishna": {
+        "id": "Vamsi Krishna",
+        "name": "Vamsi Krishna",
+        "designation": "Director Engineering, Publicis Sapient",
+        "phone": "+",
+        "email": "vamsi.katragadda@publicissapient.com",
+        "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who\nare helping clients to compete with Digital Disrupters.\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
+        "image_path": "/images/vamsi.png",
+        "link_linkedin": "www.linkedin.com/in/vamsikrishnak",
+        "image": "/images/agenda.png",
+        "isVisible": "true"
       }
-    },
-    "Nigel Vaz": {
-      "id": "Nigel Vaz",
-      "name": "Nigel Vaz",
-      "designation": "CEO, Publicis Sapient",
-      "phone": "+",
-      "email": "nigel.vaz@publicissapient.com",
-      "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
-      "image_path": "/images/nigel.png",
-      "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
-      "image": "/images/agenda.png",
-      "isVisible": "true"
-    },
-    "Vamsi Krishna": {
-      "id": "Vamsi Krishna",
-      "name": "Vamsi Krishna",
-      "designation": "Director Engineering, Publicis Sapient",
-      "phone": "+",
-      "email": "vamsi.katragadda@publicissapient.com",
-      "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who\nare helping clients to compete with Digital Disrupters.\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
-      "image_path": "/images/vamsi.png",
-      "link_linkedin": "www.linkedin.com/in/vamsikrishnak/",
-      "image": "/images/agenda.png",
-      "isVisible": "true"
     }
   }
 }
