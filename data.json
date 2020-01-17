@@ -7,7 +7,7 @@
     "content": [
       {
         "icon": "/images/stroke-21.png",
-        "text": "\u003cb\u003eDear Alan, Ankit, Dilip, Gareth, Lance,Levi\u003c/b\u003e\u003cp\u003eWelcome to Publicis Sapient in India. \u003c/p\u003e\u003cp\u003ePlease see the \u003ca href=\"https://vimeo.com/384946499/28c84037ab\"\u003ewelcome message\u003c/a\u003efrom Nigel, we are so excited to host you.\u003c/p\u003e\u003cp\u003eAs part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account members.\u003c/p\u003e\u003cp\u003eBangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.\u003c/p\u003e\u003cp\u003eNoida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.\u003c/p\u003e\u003cp\u003eThe agenda has been enclosed for your reference. Please feel free to contact Sandeep Pandey for any assistance you may need. You can reach him at \u003ca href=\"tel:+91 9811592512\"\u003e+91 9811592512\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eWishing you a memorable and wonderful stay!\u003c/p\u003e\u003cp\u003eBest Regards,\u003c/p\u003e\u003cbr\u003e\u003cb\u003ePoornima Vasdev\u003c/b\u003e\u003cbr\u003eVP Project Management\u003cbr\u003ePublicis Sapient"
+        "text": "<b>Dear Alan, Ankit, Dilip, Gareth, Lance, Levi</b><p>Welcome to Publicis Sapient in India. Please see the <a href=\"https://vimeo.com/384946499/28c84037ab\">welcome message </a>from Nigel, we are so excited to host you.</p><p>We’ve compiled some <a href=\"#\">materials for your consideration</a> ahead of the meeting, which is attached to this email. We hope you find it informative and are happy to engage in further discussions about any particular stories you’re interested in.</p><p>As part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account team members.</p><p>Bangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.</p><p>Noida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.</p><p>The agenda has been enclosed for your reference. Please feel free to contact Vikas Gulati for any assistance you may need. You can reach him at <a href=\"tel:+91 9999786472\">+91 9999786472</a>.</p><p>Wishing you a memorable and wonderful stay!</p><p>Best Regards,</p><b>Poornima Vasdev</b><br>VP Project Management"
       }
     ]
   },
@@ -17,7 +17,7 @@
     "list": [
       {
         "title": "Day O1",
-        "date": "22 January",
+        "date": "22nd January",
         "pageTitle": "Agenda Day 01",
         "schedule": [
           {
@@ -25,185 +25,146 @@
             "agenda": "Travel to Publicis Sapient, Bangalore Office",
             "objective": "",
             "sessionOwners": null,
-            "location": ""
+            "location": null
           },
           {
             "time": "9:00 - 9:15",
             "agenda": "Meet And Greet",
-            "objectives": [
-              {
-                "title": "Introductions",
-                "objective": null
-              },
-              {
-                "title": "Agenda Walkthrough",
-                "objective": null
-              }
-            ],
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Poornima Vasdev",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl, 4 floor"
+            "location": ""
           },
           {
             "time": "9:15 - 9:45",
-            "agenda": "Sapient India Overview",
-            "objectives": [
-              {
-                "title": "Publicis Sapient India Overview",
-                "objective": null
-              },
-              {
-                "title": "India Facts",
-                "objective": null
-              },
-              {
-                "title": "Our Differentiators",
-                "objective": null
-              },
-              {
-                "title": "Our Purpose and Values",
-                "objective": null
-              },
-              {
-                "title": "Our Expertise",
-                "objective": null
-              }
-            ],
+            "agenda": "Welcome Address",
+            "objectives": null,
             "sessionOwners": [
               {
-                "name": "Sanjay Menon",
-                "capabilities": ""
+                "name": "Nigel Vaz",
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl, 4 floor"
+            "location": null
           },
           {
             "time": "9:45 - 10:15",
-            "agenda": "Engineering at Scale",
-            "objectives": [
-              {
-                "title": "PS in Digital Business Transformation",
-                "objective": null
-              },
-              {
-                "title": "Showcase PS Capabilities",
-                "objective": [
-                  {
-                    "title": "Above the glass (Design, UX, UI)",
-                    "objective": null
-                  },
-                  {
-                    "title": "Below the glass (Microservices, APIs, Cloud)",
-                    "objective": null
-                  },
-                  {
-                    "title": "Data and Analytics",
-                    "objective": null
-                  }
-                ]
-              }
-            ],
+            "agenda": "Experience Design Capability",
+            "objectives": null,
             "sessionOwners": [
               {
-                "name": "Tilak Doddapaneni",
-                "capabilities": ""
+                "name": "Wendy Johansson",
+                "capabilities": "",
+                "link" : true
+              }
+            ],
+            "location": null
+          },
+          {
+            "time": "10:15 - 10:30",
+            "agenda": "Publicis Sapient HOW",
+            "objectives": null,
+            "sessionOwners": [
+              {
+                "name": "Sheldon Monterio",
+                "capabilities": "",
+                "link" : true
+              },
+              {
+                "name": "Poornima Vasdev",
+                "capabilities": "",
+                "link" : true
               }
             ],
             "location": "Fishbowl, 4 floor"
           },
           {
-            "time": "10:15 - 11:30",
-            "agenda": "Experience/Engineering Demo",
-            "objectives": [
-              {
-                "title": "Customer Experience Case Study - Demonstrate Team's thinking",
-                "objective": [
-                  {
-                    "title": "Including the Case Study Demo on multi-modal Voice Assistant Interface",
-                    "objective": null
-                  }
-                ]
-              }
-            ],
+            "time": "10:30 - 11:30",
+            "agenda": "The Case of Complex Carla: Bill Pay Customer Experience Demo",
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Mark Wagner",
-                "capabilities": "(Design, UX)"
+                "capabilities": "",
+                "link" : true
               },
               {
                 "name": "Vamsi Krishna",
-                "capabilities": "(Mobile, Wearables, Voice)"
+                "capabilities": "",
+                "link" : true
               },
               {
                 "name": "Kumar Gaurav",
-                "capabilities": "(Reactive Web)"
+                "capabilities": "",
+                "link" : true
+              },
+              {
+                "name": "Deepali Nayar",
+                "capabilities": "",
+                "link" : true
+              }
+            ],
+            "location": null
+          },
+          {
+            "time": "11:30 - 11:45",
+            "agenda": "Engineering: Wall of Wonder",
+            "objectives": null,
+            "sessionOwners": [
+              {
+                "name": "Tilak Doddapaneni",
+                "capabilities": "",
+                "link" : true
               },
               {
                 "name": "Raja Raman",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl, 4 floor"
-          },
-          {
-            "time": "11:30 - 12:00",
-            "agenda": "ODC Visit (Large US Bank)",
-            "objectives": [
-              {
-                "title": "ODC Visit - Understanding the HOW",
-                "objective": [
-                  {
-                    "title": "Understand success stories, best practices and how US Bank can adopt some of these models",
-                    "objective": null
-                  }
-                ]
-              }
-            ],
+            "location": null
+          },{
+            "time": "11:45 - 12:30",
+            "agenda": "ODC Visit (Large UK Bank)",
+            "objectives": null,
             "sessionOwners": [
               {
-                "name": "Anil Dhulapannavar",
-                "capabilities": ""
+                "name": "Pinak Kiran Vedalankar",
+                "capabilities": "",
+                "link" : false
               },
               {
                 "name": "Soruja Yasmin Mazumdar",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : false
               }
             ],
-            "location": "Team Area"
+            "location": null
           },
           {
-            "time": "12:00 - 1:00",
-            "agenda": "Partnering Together (Working Lunch)",
-            "objectives": [
-              {
-                "title": "Thoughts on how we could work better together",
-                "objective": null
-              }
-            ],
+            "time": "12:30 Onwards",
+            "agenda": "Partnering Together\n(Working Lunch)",
+            "objective": "",
             "sessionOwners": [
               {
-                "name": "US Bank Leadership \u0026 Publicis Sapient Leadership",
-                "capabilities": ""
+                "name": "US Bank Leadership & Publicis Sapient Leadership",
+                "capabilities": "",
+                "link" : false
               }
             ],
-            "location": "Fishbowl, 4 floor"
-          },
-          {
-            "time": "1:00",
-            "agenda": "Wrap Up",
-            "objective": "",
-            "sessionOwners": null,
-            "location": ""
+            "location": null
           }
         ]
       },
       {
         "title": "Day O2",
-        "date": "27 January",
+        "date": "27th January",
         "pageTitle": "Agenda Day 02",
         "schedule": [
           {
@@ -216,103 +177,74 @@
           {
             "time": "9:30 - 9:45",
             "agenda": "Meet And Greet",
-            "objectives": [
-              {
-                "title": "Introductions",
-                "objective": null
-              },
-              {
-                "title": "Agenda Walkthrough",
-                "objective": null
-              }
-            ],
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Poornima Vasdev",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl"
+            "location": null
           },
           {
             "time": "9:45 - 10:15",
             "agenda": "Reflections 2019",
-            "objectives": [
-              {
-                "title": "Meet leads",
-                "objective": null
-              },
-              {
-                "title": "Project delivered",
-                "objective": null
-              },
-              {
-                "title": "Growth",
-                "objective": null
-              },
-              {
-                "title": "Reflections",
-                "objective": null
-              }
-            ],
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Vamsi",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               },
               {
                 "name": "Poornima Vasdev",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl"
+            "location": null
           },
           {
             "time": "10:15 - 10:30",
             "agenda": "US Bank ODC Visit",
-            "objectives": [
-              {
-                "title": "US Bant ODC Area Visit",
-                "objective": null
-              }
-            ],
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Poornima Vasdev",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "USB ODC"
+            "location": null
           },
           {
             "time": "10:30 - 12:00",
             "agenda": "US Bank All Hands",
-            "objectives": [
+            "objectives": null,
+            "sessionOwners": [
               {
-                "title": "US Bank 2020 Roadmap",
-                "objective": null,
-                "owner": "Alan Kinny/Ankit Bhat"
+                "name": "Alan Kinny/Ankit Bhat",
+                "capabilities": "",
+                "link" : false
               },
               {
-                "title": "PS USB Team 2019 Achievements",
-                "objective": null,
-                "owner": "Poornima Vasdev",
-                "link": true
+                "name": "Poornima Vasdev",
+                "capabilities": "",
+                "link" : true
               },
               {
-                "title": "PS 2020 Engineering Roadmap",
-                "objective": null,
-                "owner": "Raja Raman",
-                "link": true
+                "name": "Raja Raman",
+                "capabilities": "",
+                "link" : true
               },
               {
-                "title": "Rewards & Recognitions",
-                "objective": null,
-                "owner": "Sandeep + Mudit"
+                "name": "Sandeep + Mudit",
+                "capabilities": "",
+                "link" : false
               }
             ],
-            "sessionOwners": null,
-            "location": "First Floor Cafeteria"
+            "location": null
           },
           {
             "time": "12:00 - 1:00",
@@ -324,40 +256,30 @@
           {
             "time": "1:00 - 3:00",
             "agenda": "Innovations/Accelerators",
-            "objectives": [
+            "objectives": null,
+            "sessionOwners": [
               {
-                "title": "Mobile",
-                "objective": null,
-                "owner": "Vamsi Krishna",
-                "link": true
+                "name": "Vamsi Krishna",
+                "capabilities": "",
+                "link" : true
               },
               {
-                "title": "Web",
-                "objective": null,
-                "owner": "Kumar Gaurav",
-                "link": true
+                "name": "Kumar Gaurav",
+                "capabilities": "",
+                "link" : true
               },
               {
-                "title": "Design",
-                "objective": null,
-                "owner": "Deepali Nayar",
-                "link": true
+                "name": "Deepali Nayar",
+                "capabilities": "",
+                "link" : true
               },
               {
-                "title": "Below the Glass",
-                "objective": null,
-                "owner": "Raja Raman",
-                "link": true
-              },
-              {
-                "title": "Cloud",
-                "objective": null,
-                "owner": "Raja Raman",
-                "link": true
+                "name": "Raja Raman",
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "sessionOwners": null,
-            "location": "Fishbowl"
+            "location": null
           },
           {
             "time": "3:00 - 3:15",
@@ -369,19 +291,15 @@
           {
             "time": "3:15 - 4:00",
             "agenda": "HOW Kitchen",
-            "objectives": [
-              {
-                "title": "Ways of Working",
-                "objective": null
-              }
-            ],
+            "objectives": null,
             "sessionOwners": [
               {
                 "name": "Poornima Vasdev",
-                "capabilities": ""
+                "capabilities": "",
+                "link" : true
               }
             ],
-            "location": "Fishbowl"
+            "location": null
           }
         ]
       }
@@ -392,15 +310,26 @@
     "image": "/images/agenda.png",
     "list": [
       {
-        "id": "spand",
-        "name": "Sandeep Pandey",
-        "designation": "Senior Manager Program Management",
-        "phone": "+91-9811592512",
-        "email": "sandeep.pandey@publicissapient.com",
+        "id": "vikas",
+        "name": "Vikas Gulati",
+        "designation": "Senior Associate Executive Admin",
+        "phone": "+91-9999786472",
+        "email": "vikas.gulati@publicissapient.com",
         "address": "Publicis Sapient\nOxygen Business Park Pvt Ltd, SEZ,\nTower C, Ground to 4th floor\nPlot No. 7, Sector 144 Expressway\nNoida 201301, Uttar Pradesh, India",
         "mapsLink": "",
-        "bio": "BoJack Horseman is a self-loathing 52-year-old alcoholic horse whose acting career peaked when he starred in a successful family sitcom called Horsin' Around in the late 1980s and later 'The Bojack Horseman Show' which was cancelled after one season, in 2007.\n\nThough he began as a young bright-eyed actor, he has since grown bitter, deeply depressed, and jaded towards Hollywood and who he has become post-fame. BoJack has been shown to be caring and insightful, but his insecurities, loneliness, and desperate need for approval often result in self-destructive actions that devastate those around him.\n\nMany of his issues stem from his childhood and issues with his unhappy parents, which the audience is shown through flashbacks.",
-        "image_path": "/images/sandeep.jpg"
+        "bio": "",
+        "image_path": "/images/vikas.png"
+      },
+      {
+        "id": "sunita",
+        "name": "Sunita Nair",
+        "designation": "Senior Associate Executive Admin",
+        "phone": "+91-9886755444",
+        "email": "sunita.nair@publicissapient.com",
+        "address": "Publicis Sapient\n2870, Wing B, Building - Virgo, Bagmane Constellation Business Park,\nBangalore, Karnataka 560048",
+        "mapsLink": "",
+        "bio": "",
+        "image_path": "/images/sunita.png"
       }
     ]
   },
@@ -408,6 +337,18 @@
     "pageTitle": "Speaker Profile",
     "image": "/images/agenda.png",
     "data": {
+      "Nigel Vaz": {
+        "id": "Nigel Vaz",
+        "name": "Nigel Vaz",
+        "designation": "CEO, Publicis Sapient",
+        "phone": "+",
+        "email": "nigel.vaz@publicissapient.com",
+        "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\n\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\n\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
+        "image_path": "/images/nigel.png",
+        "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
+        "image": "/images/agenda.png",
+        "isVisible": "true"
+      },
       "Sanjay Menon": {
         "id": "sanmenno",
         "name": "Sanjay Menon",
@@ -417,18 +358,6 @@
         "bio": "As the Managing Director for Publicis Sapient India, Sanjay is responsible for driving the strategy, capability development, and growth of Publicis Sapient’s India presence and maintain its status as hub of the company’s globally distributed delivery network.\n\nHaving been with the company for over 16 years, Sanjay has been instrumental in growing Sapient’s India operations since its inception. He has served in various business and delivery roles including running key account P&Ls, managing global delivery for some of the business units as well as growing digital marketing services capability from India.\n\nPrior to joining Sapient, Sanjay was supervisory consultant with the Management Consulting practice of PricewaterhouseCoopers. He holds a Bachelor’s Degree in Business Studies and a Master’s Degree in Finance.",
         "image_path": "/images/sanjay.png",
         "link_linkedin": "www.linkedin.com/in/sanjay-menon-532a40",
-        "image": "/images/agenda.png",
-        "isVisible": "true"
-      },
-      "Tilak Doddapaneni": {
-        "id": "tildodda",
-        "name": "Tilak Doddapaneni",
-        "designation": "Executive Vice President",
-        "phone": "+",
-        "email": "tilak.doddapaneni@publicissapient.com",
-        "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe to build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
-        "image_path": "/images/tilak.png",
-        "link_linkedin": "www.linkedin.com/in/tilakdoddapaneni",
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
@@ -444,51 +373,15 @@
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
-      "David Donovan": {
-        "id": "David Donovan",
-        "name": "David Donovan",
-        "designation": "Executive Vice President, Publicis Sapient, NA",
+      "Tilak Doddapaneni": {
+        "id": "tildodda",
+        "name": "Tilak Doddapaneni",
+        "designation": "Executive Vice President",
         "phone": "+",
-        "email": "david.donovan@publicissapient.com",
-        "bio": "David Donovan, Executive Vice President, oversees Publicis Sapient’s entire financial services portfolio for the Americas. He is responsible for setting operational and marketing strategies for the firm and managing relationships with top global investment banks.\n\nSince joining Publicis Sapient in 2005, his deep understanding of business, regulatory, operations and technology challenges facing C-suite executives, has enabled Donovan to help develop top strategic initiatives to evolve our business and improve the company’s ability to deliver transformative work.   Donovan brings 25 years of expertise working on Wall Street as an institutional equity trader, including 14 years as the sector leader of technology trading for Fidelity Management and Research, when working with investment banks and asset managers.",
-        "image_path": "/images/davidd.jpg",
-        "link_linkedin": "www.linkedin.com/in/davidkdonovan",
-        "image": "/images/agenda.jpg",
-        "isVisible": "true"
-      },
-      "David Poole": {
-        "id": "david",
-        "name": "David Poole",
-        "designation": "Head of Financial Services Center of Excellence",
-        "phone": "+",
-        "email": "david.poole@publicissapient.com",
-        "bio": "David leads Publicis Sapient’s Financial Services Center of Excellence, responsible for supporting clients in thought leadership, innovation, digital transformation, and insight into customer trends.\n\nPast work includes experience strategy for U.S. Bank, TD, Citi, SunTrust Bank, Visa and digital product innovation for Goldman Sachs.\n\nDavid has been a speaker on the future of payments at industry events including Money20/20, FIMA, NextBank and CXFS. He is a change agent with 20 + years experience as a researcher, planner and consultant—sharing his passion for making it fun to be financially healthy.",
-        "image_path": "/images/davidp.jpg",
-        "link_linkedin": "www.linkedin.com/in/davidjpoole",
-        "image": "/images/agenda.png",
-        "isVisible": "true"
-      },
-      "Amy Betty": {
-        "id": "amy",
-        "name": "Amy Betty",
-        "designation": "Senior Client Partner, Minneapolis, MN",
-        "phone": "+",
-        "email": "amy.betty@publicissapient.com",
-        "bio": "In her role of Senior Client Partner in the Financial Services practice, Amy is accountable to Publicis Sapient’s clients for overall client satisfaction and oversight of the Publicis Sapient team members who are accountable for achieving client business objectives.\n\nAmy has 23 years of experience that spans agency, consulting and software and has a passion of using creativity and technology to achieve business results and build strong relationships with clients. Her approach ensures an open dialogue with each client every day, ensuring alignment around objectives even as market conditions change.\n\nShe has worked effectively with clients such as U.S. Bank, UnitedHealthcare, Williams-Sonoma, General Mills, and Starz Entertainment and has produced work recognized by Appy Awards and One Show. Amy has a BA in Biology from St. Olaf College and an MBA from The Carlson School of Management at the University of Minnesota.",
-        "image_path": "/images/amy_new.jpg",
-        "link_linkedin": "www.linkedin.com/in/amyandersonbetty",
-        "image": "/images/agenda.png",
-        "isVisible": "true"
-      },
-      "Wendy Johansson": {
-        "id": "wendy",
-        "name": "Wendy Johansson",
-        "designation": "GVP Executive Creative Director, NA",
-        "phone": "+",
-        "email": "wendy.johansson@publicissapient.com",
-        "bio": "Wendy Johansson is Global Vice President, Experience Transformation Lead at Publicis Sapient where she works closely with tech legend and Publicis Sapient CXO John Maeda. Wendy is part of a team forging an engineering and design partnership to establish a deeply technologically grounded future where creativity is fully integrated into Publicis Sapient’s client services.\n\nWendy built her career in leading UX teams as an early employee at successful early-stage startups. She was the first designer at Loopt, Sam Altman’s YC-funded startup that later sold for $43 million. As the UX manager at Ooyala, she helped build the marketing, videography, and UX teams before the company was sold to Telstra for $400M. Wendy also led the global UX team at AppNexus, sold to AT&T for $1.6B, before co-founding Wizeline, a global product consultancy, in 2013.",
-        "image_path": "/images/wendy.png",
-        "link_linkedin": "www.linkedin.com/in/wendyjohansson",
+        "email": "tilak.doddapaneni@publicissapient.com",
+        "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe to build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
+        "image_path": "/images/tilak.png",
+        "link_linkedin": "www.linkedin.com/in/tilakdoddapaneni",
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
@@ -504,15 +397,27 @@
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
-      "Mark Wagner": {
-        "id": "Mark",
-        "name": "Mark Wagner",
-        "designation": "Group Creative Director, Experience. Publicis Sapient, Minneapolis",
+      "Amy Betty": {
+        "id": "amy",
+        "name": "Amy Betty",
+        "designation": "Senior Client Partner, Minneapolis, MN",
         "phone": "+",
-        "email": "mark.wagner@publicissapient.com",
-        "bio": "For the last 6 years Mark has directed and led the PS Experience Practice for Publicis Sapient Minneapolis.\n\nMark leverages over 20 years of design expertise, leading various product and design teams in delivering outcome-driven work that exceed client expectations while maintaining results-oriented, customer-centered goals.\n\nDuring his career Mark has helped conceive and deliver innovative user experiences crossing complex B-to-B and B-to-C challenges for financial services, healthcare, manufacturing, and retail. Prior to PS, Mark has worked on both client- and agency-environments.\n\nHis focus areas include experience strategy, digital product innovation, design, and design operations.",
-        "image_path": "/images/mark.jpg",
-        "link_linkedin": "www.linkedin.com/in/markphillipwagner/",
+        "email": "amy.betty@publicissapient.com",
+        "bio": "In her role of Senior Client Partner in the Financial Services practice, Amy is accountable to Publicis Sapient’s clients for overall client satisfaction and oversight of the Publicis Sapient team members who are accountable for achieving client business objectives.\n\nAmy has 23 years of experience that spans agency, consulting and software and has a passion of using creativity and technology to achieve business results and build strong relationships with clients. Her approach ensures an open dialogue with each client every day, ensuring alignment around objectives even as market conditions change.\n\nShe has worked effectively with clients such as U.S. Bank, UnitedHealthcare, Williams-Sonoma, General Mills, and Starz Entertainment and has produced work recognized by Appy Awards and One Show. Amy has a BA in Biology from St. Olaf College and an MBA from The Carlson School of Management at the University of Minnesota.",
+        "image_path": "/images/amy_new.jpg",
+        "link_linkedin": "www.linkedin.com/in/amyandersonbetty",
+        "image": "/images/agenda.png",
+        "isVisible": "true"
+      },
+      "Vamsi Krishna": {
+        "id": "Vamsi Krishna",
+        "name": "Vamsi Krishna",
+        "designation": "Director Engineering, Publicis Sapient",
+        "phone": "+",
+        "email": "vamsi.katragadda@publicissapient.com",
+        "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who are helping clients to compete with Digital Disrupters.\n\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\n\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
+        "image_path": "/images/vamsi.png",
+        "link_linkedin": "www.linkedin.com/in/vamsikrishnak",
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
@@ -528,27 +433,51 @@
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
-      "Nigel Vaz": {
-        "id": "Nigel Vaz",
-        "name": "Nigel Vaz",
-        "designation": "CEO, Publicis Sapient",
+      "David Poole": {
+        "id": "david",
+        "name": "David Poole",
+        "designation": "Head of Financial Services Center of Excellence",
         "phone": "+",
-        "email": "nigel.vaz@publicissapient.com",
-        "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\n\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\n\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
-        "image_path": "/images/nigel.png",
-        "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
+        "email": "david.poole@publicissapient.com",
+        "bio": "David leads Publicis Sapient’s Financial Services Center of Excellence, responsible for supporting clients in thought leadership, innovation, digital transformation, and insight into customer trends.\n\nPast work includes experience strategy for U.S. Bank, TD, Citi, SunTrust Bank, Visa and digital product innovation for Goldman Sachs.\n\nDavid has been a speaker on the future of payments at industry events including Money20/20, FIMA, NextBank and CXFS. He is a change agent with 20 + years experience as a researcher, planner and consultant—sharing his passion for making it fun to be financially healthy.",
+        "image_path": "/images/davidp.jpg",
+        "link_linkedin": "www.linkedin.com/in/davidjpoole",
+        "image": "/images/agenda.png",
+        "isVisible": "false"
+      },
+      "Wendy Johansson": {
+        "id": "wendy",
+        "name": "Wendy Johansson",
+        "designation": "GVP Executive Creative Director, NA",
+        "phone": "+",
+        "email": "wendy.johansson@publicissapient.com",
+        "bio": "Wendy Johansson is Global Vice President, Experience Transformation Lead at Publicis Sapient where she works closely with tech legend and Publicis Sapient CXO John Maeda. Wendy is part of a team forging an engineering and design partnership to establish a deeply technologically grounded future where creativity is fully integrated into Publicis Sapient’s client services.\n\nWendy built her career in leading UX teams as an early employee at successful early-stage startups. She was the first designer at Loopt, Sam Altman’s YC-funded startup that later sold for $43 million. As the UX manager at Ooyala, she helped build the marketing, videography, and UX teams before the company was sold to Telstra for $400M. Wendy also led the global UX team at AppNexus, sold to AT&T for $1.6B, before co-founding Wizeline, a global product consultancy, in 2013.",
+        "image_path": "/images/wendy.png",
+        "link_linkedin": "www.linkedin.com/in/wendyjohansson",
         "image": "/images/agenda.png",
         "isVisible": "true"
       },
-      "Vamsi Krishna": {
-        "id": "Vamsi Krishna",
-        "name": "Vamsi Krishna",
-        "designation": "Director Engineering, Publicis Sapient",
+      "David Donovan": {
+        "id": "David Donovan",
+        "name": "David Donovan",
+        "designation": "Executive Vice President, Publicis Sapient, NA",
         "phone": "+",
-        "email": "vamsi.katragadda@publicissapient.com",
-        "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who are helping clients to compete with Digital Disrupters.\n\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\n\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
-        "image_path": "/images/vamsi.png",
-        "link_linkedin": "www.linkedin.com/in/vamsikrishnak",
+        "email": "david.donovan@publicissapient.com",
+        "bio": "David Donovan, Executive Vice President, oversees Publicis Sapient’s entire financial services portfolio for the Americas. He is responsible for setting operational and marketing strategies for the firm and managing relationships with top global investment banks.\n\nSince joining Publicis Sapient in 2005, his deep understanding of business, regulatory, operations and technology challenges facing C-suite executives, has enabled Donovan to help develop top strategic initiatives to evolve our business and improve the company’s ability to deliver transformative work.   Donovan brings 25 years of expertise working on Wall Street as an institutional equity trader, including 14 years as the sector leader of technology trading for Fidelity Management and Research, when working with investment banks and asset managers.",
+        "image_path": "/images/davidd.jpg",
+        "link_linkedin": "www.linkedin.com/in/davidkdonovan",
+        "image": "/images/agenda.jpg",
+        "isVisible": "false"
+      },
+      "Mark Wagner": {
+        "id": "Mark",
+        "name": "Mark Wagner",
+        "designation": "Group Creative Director, Experience. Publicis Sapient, Minneapolis",
+        "phone": "+",
+        "email": "mark.wagner@publicissapient.com",
+        "bio": "For the last 6 years Mark has directed and led the PS Experience Practice for Publicis Sapient Minneapolis.\n\nMark leverages over 20 years of design expertise, leading various product and design teams in delivering outcome-driven work that exceed client expectations while maintaining results-oriented, customer-centered goals.\n\nDuring his career Mark has helped conceive and deliver innovative user experiences crossing complex B-to-B and B-to-C challenges for financial services, healthcare, manufacturing, and retail. Prior to PS, Mark has worked on both client- and agency-environments.\n\nHis focus areas include experience strategy, digital product innovation, design, and design operations.",
+        "image_path": "/images/mark.jpg",
+        "link_linkedin": "www.linkedin.com/in/markphillipwagner/",
         "image": "/images/agenda.png",
         "isVisible": "true"
       }
