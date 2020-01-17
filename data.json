@@ -426,7 +426,7 @@
         "designation": "Executive Vice President",
         "phone": "+",
         "email": "tilak.doddapaneni@publicissapient.com",
-        "bio": "Tilak is accountable for the engineering and running of the online products at Tesco. He provides technical leadership, guidance and management oversight to a team of 600+ engineers who run the online and mobile channels at Tesco.\nAdditionally, Tilak also works in tandem with Program Directors and Product Owners on the roadmaps so that the Technology and Engineering aspects are taken into account for the planning and release roadmaps.\nHis teams operate in Agile/Dev Ops model and each team does design, development.",
+        "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe\nto build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
         "image_path": "/images/tilak.png",
         "link_linkedin": "www.linkedin.com/in/tilakdoddapaneni",
         "image": "/images/agenda.png",
@@ -435,14 +435,14 @@
       "Poornima Vasdev": {
         "id": "poorvas",
         "name": "Poornima Vasdev",
-        "designation": "Vice President",
-        "phone": "+91-7760976956",
+        "designation": "Vice President, Project Management Publicis Sapient, India",
+        "phone": "+",
         "email": "poornima.vasdev@publicissapient.com",
-        "bio": "Bio Needed",
+        "bio": "Poornima leads program delivery for Sapient’s financial services clients with primary focus on US Bank engagement. She is responsible for managing client engagement, ensuring seamless and quality delivery and overall program health for our account teams and ensure success of globally distributed delivery network in context of US Bank engagement.\n\nPrior to joining Sapient, Poornima was global delivery leader for capital markets business for Genpact Headstrong. She holds a Bachelor’s Degree in Electronics and an MBA in Finance, Strategy and Marketing.",
         "image_path": "/images/profile.png",
-        "link_linkedin": "www.linkedin.com/in/",
+        "link_linkedin": "www.linkedin.com/in/poornimasaxena",
         "image": "/images/agenda.png",
-        "isVisible": "false"
+        "isVisible": "true"
       },
       "David Donovan": {
         "id": "David Donovan",
@@ -528,6 +528,30 @@
         "image": "/images/agenda.png",
         "isVisible": "true"
       }
+    },
+    "Nigel Vaz": {
+      "id": "Nigel Vaz",
+      "name": "Nigel Vaz",
+      "designation": "CEO, Publicis Sapient",
+      "phone": "+",
+      "email": "nigel.vaz@publicissapient.com",
+      "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
+      "image_path": "/images/nigel.jpg",
+      "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
+      "image": "/images/agenda.png",
+      "isVisible": "true"
+    },
+    "Vamsi Krishna": {
+      "id": "Vamsi Krishna",
+      "name": "Vamsi Krishna",
+      "designation": "Director Engineering, Publicis Sapient",
+      "phone": "+",
+      "email": "vamsi.katragadda@publicissapient.com",
+      "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who\nare helping clients to compete with Digital Disrupters.\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
+      "image_path": "/images/vamsi.jpg",
+      "link_linkedin": "www.linkedin.com/in/vamsikrishnak/",
+      "image": "/images/agenda.png",
+      "isVisible": "true"
     }
   }
 }
