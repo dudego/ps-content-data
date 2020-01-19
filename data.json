@@ -7,7 +7,7 @@
     "content": [
       {
         "icon": "/images/stroke-21.png",
-        "text": "<b>Dear Alan, Ankit, Dilip, Gareth, Lance, Levi</b><p>Welcome to Publicis Sapient in India. We are so excited to host you.</p><p>We’ve compiled some <a href=\"https://www2.publicisgroupe.net/l/136951/2020-01-17/631fwd/136951/133963/PS_USBankIndiaPreRead.pdf\">materials for your consideration</a> ahead of the meeting, which is attached to this email. We hope you find it informative and are happy to engage in further discussions about any particular stories you’re interested in.</p><p>As part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account team members.</p><p>Bangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.</p><p>Noida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.</p><p>The agenda has been enclosed for your reference. Please feel free to contact Vikas Gulati for any assistance you may need. You can reach him at <a href=\"tel:+91 9999786472\">+91 9999786472</a>.</p><p>Wishing you a memorable and wonderful stay!</p><p>Best Regards,</p><b>Poornima Vasdev</b><br>Vice President, Head of Delivery<br>Publicis Sapient"
+        "text": "<b>Dear Alan, Ankit, Dilip, Gareth, Lance, Levi</b><p>Welcome to Publicis Sapient in India. We are so excited to host you.</p><p>We’ve compiled some <a href=\"https://www2.publicisgroupe.net/l/136951/2020-01-17/631fwd/136951/133963/PS_USBankIndiaPreRead.pdf\">materials for your consideration</a> ahead of the meeting, which is attached to this email. We hope you find it informative and are happy to engage in further discussions about any particular stories you’re interested in.</p><p>As part of the itinerary, you would be visiting the Publicis Sapient Bangalore and Noida office to meet the leadership team and US Bank India account team members.</p><p>Bangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka and has been given the epithet of Garden City. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore was once known as Pensioner’s Paradise.</p><p>Noida is one of Delhi’s four major satellite cities and is part of National Capital Region (NCR) of India. It houses numerous multinational companies and has plenty of tourist friendly malls, hotels, and restaurants.</p><p>The agenda has been enclosed for your reference. Please feel free to contact Vikas Gulati for any assistance you may need. You can reach him at <a href=\"tel:+91 9999786472\">+91 9999786472</a>.</p><p>Wishing you a memorable and wonderful stay!</p><p>Best Regards,</p><b>Poornima Vasdev</b><br>VP Project Management, Delivery Lead<br>Publicis Sapient"
       }
     ]
   },
@@ -102,7 +102,7 @@
               {
                 "name": "Kumar Gaurav",
                 "capabilities": "",
-                "link" : true
+                "link" : false
               },
               {
                 "name": "Deepali Nayar",
@@ -207,7 +207,7 @@
           },
           {
             "time": "10:15 - 10:30",
-            "agenda": "US Bank ODC Visit",
+            "agenda": "U.S. Bank ODC Visit",
             "objectives": null,
             "sessionOwners": [
               {
@@ -220,7 +220,7 @@
           },
           {
             "time": "10:30 - 12:00",
-            "agenda": "US Bank All Hands",
+            "agenda": "U.S. Bank All Hands",
             "objectives": null,
             "sessionOwners": [
               {
@@ -342,7 +342,7 @@
         "name": "Nigel Vaz",
         "designation": "CEO, Publicis Sapient",
         "phone": "+",
-        "email": "nigel.vaz@publicissapient.com",
+        "email": "nigel.vaz@publicis.sapient.com",
         "bio": "Nigel Vaz is CEO of Publicis Sapient, the digital business transformation company. He is also a member of Publicis Groupe’s Executive Committee and serves as the French multinational’s Global Lead of Digital Business Transformation.\n\n‘Consulting’ magazine has recognised Nigel as a Top 25 Global Leader in Consulting in 2019. As CEO leading a business with expertise spanning technology, consulting, data science and experience, he acts as strategic advisor for global clients such as McDonald’s, Walmart, Lloyds Banking Group, Carrefour and Unilever.\n\nSince becoming CEO in February 2019, Nigel has repositioned the business under a unified Publicis Sapient brand recognised for digital business transformation, and with a focus on driving client impact through deep industry expertise and high-value management consulting. Nigel was previously CEO of Publicis Sapient across EMEA and APAC. An early leader within the international business, Nigel helped to establish Sapient’s UK and then European operations. He now oversees a global business spanning 53 offices and employing more than 20,000 people.\n\nPrior to Sapient, Nigel was a successful entrepreneur – co-founding a public company with interests in telecoms, consulting and connectivity solutions.",
         "image_path": "/images/nigel.png",
         "link_linkedin": "www.linkedin.com/in/nigel-vaz-56976",
@@ -364,7 +364,7 @@
       "Poornima Vasdev": {
         "id": "poorvas",
         "name": "Poornima Vasdev",
-        "designation": "Vice President, Head of Delivery,Publicis Sapient, India",
+        "designation": "Vice President, Delivery Lead, Publicis Sapient, India",
         "phone": "+",
         "email": "poornima.vasdev@publicissapient.com",
         "bio": "Poornima leads program delivery for Sapient’s financial services clients with primary focus on US Bank engagement. She is responsible for managing client engagement, ensuring seamless and quality delivery and overall program health for our account teams and ensure success of globally distributed delivery network in context of US Bank engagement.\n\nPrior to joining Sapient, Poornima was global delivery leader for capital markets business for Genpact Headstrong. She holds a Bachelor’s Degree in Electronics and an MBA in Finance, Strategy and Marketing.",
@@ -376,7 +376,7 @@
       "Tilak Doddapaneni": {
         "id": "tildodda",
         "name": "Tilak Doddapaneni",
-        "designation": "Executive Vice President",
+        "designation": "Executive Vice President, Publicis Sapient, India",
         "phone": "+",
         "email": "tilak.doddapaneni@publicissapient.com",
         "bio": "As the EVP and Global Head of Engineering & Technology, Tilak brings over two decades of experience leading large engineering teams at some of the biggest companies of the world. In his current role, Tilak leads the global engineering capability for Publicis Sapient and works closely with clients who are embarking on their Digital Transformation and Engineering Transformation journey. He is reinventing the engineering capability by being a partner, sounding board and a coach to Publicis Sapient’s business leaders and clients.\n\nPrior to Publicis Sapient, Tilak was the Online Engineering Lead for Tesco, UK and led the implementation and launch of its first Marketplace platform. Additionally, he formed agile engineering teams across the globe to build an online groceries platform for Tesco that withstood the competition from Amazon and startups like Ocado and is now the largest online groceries platform globally.Throughout his career, he has established highly efficient and impactful engineering teams by grooming senior technical leadership, recruiting best talent, leveraging leading edge approaches to software development and creating a culture where engineers worked as full life cycle developers.He has a Bachelors of Engineering in Computer Science fromBangalore University and Masters in Database and AI from Tufts University, Medford, MA, USA.",
@@ -412,7 +412,7 @@
       "Vamsi Krishna": {
         "id": "Vamsi Krishna",
         "name": "Vamsi Krishna",
-        "designation": "Director Engineering, Publicis Sapient",
+        "designation": "Director Engineering, Publicis Sapient, India",
         "phone": "+",
         "email": "vamsi.katragadda@publicissapient.com",
         "bio": "As Director Engineering for Publicis Sapient India, Vamsi is responsible building top-notch engineering talent, who are helping clients to compete with Digital Disrupters.\n\nVamsi Krishna partners with clients to help them with digital strategy to realize a better future for their businesses and improve their customers’ lives, Vamsi Krishna works closely with clients and teams to deliver transformative experiences that make a significant impact on the success of leading global brands including GoldmanSachs, LLOYDS Bank, TacoBell, UBS and more.\n\nWith roots in Technology, Vamsi Krishna has consistently helped clients with scalable solution architecture business critical products, brought in best in class engineering practices to scale product engineering teams that create quality products, innovation. He is responsible for building Mobile, AR/VR, Voice technology capabilities for Publicis.Sapient. He is a hands-on full-stack developer keeps himself up to date with iOS, Android, Xamarin, ReactNative, and DevOps tools.",
@@ -424,7 +424,7 @@
       "Deepali Nayar": {
         "id": "deenayar",
         "name": "Deepali Nayar",
-        "designation": "Associate Creative Director",
+        "designation": "Associate Creative Director, India",
         "phone": "+",
         "email": "deepali.nayar@publicissapient.com",
         "bio": "A designer with 15 years of experience, bringing designs to life through experience based solutions. With a proven knowledge of creative direction, communication design and user experience, she helps to provide a visual identity to creative strategy for any brand and translate those experiences into tangible user interface solutions.\n\nShe collaborates with account executives to collate client requirements and directs & motivates the team of art directors, illustrators, copywriters etc. to help them use their talents effectively. She is responsible to inspire, lead, develop and grow creative business/projects/team.\n\nShe has gained immense exposure and learning with her global experience of working with clients and teams from Boston, Washington DC, New York, Singapore, China and Hong Kong.\n\nWorking with global giants and world’s greatest brands and consumers across multiple touch points from print and digital has been part of her eventful and impactful journey. To name a few: US Bank, Citibank, Citizens Bank, Bank of America, Lane Crawford, SingTel, EPB, Unilever, Huawei Honor, etc.",
@@ -472,7 +472,7 @@
       "Mark Wagner": {
         "id": "Mark",
         "name": "Mark Wagner",
-        "designation": "Group Creative Director, Experience. Publicis Sapient, Minneapolis",
+        "designation": "Group Creative Director, Experience. Publicis Sapient, NA",
         "phone": "+",
         "email": "mark.wagner@publicissapient.com",
         "bio": "For the last 6 years Mark has directed and led the PS Experience Practice for Publicis Sapient Minneapolis.\n\nMark leverages over 20 years of design expertise, leading various product and design teams in delivering outcome-driven work that exceed client expectations while maintaining results-oriented, customer-centered goals.\n\nDuring his career Mark has helped conceive and deliver innovative user experiences crossing complex B-to-B and B-to-C challenges for financial services, healthcare, manufacturing, and retail. Prior to PS, Mark has worked on both client- and agency-environments.\n\nHis focus areas include experience strategy, digital product innovation, design, and design operations.",
